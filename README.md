@@ -10,3 +10,6 @@ This is the project is an update to the following project:
 - Method configure(HttpSecurity http) of WebSecurityConfigurerAdaptor is now part of the @Bean SecurityFilterChain. <br>
 - @EnableGlobalMethodSecurity is now @EnableMethodSecurity with prePostMethod set to true by default. <br>
 - Lambda expressions are used in the Security Configuration class
+
+### License & Copyright
+[License Link](LICENSE). <br> 
