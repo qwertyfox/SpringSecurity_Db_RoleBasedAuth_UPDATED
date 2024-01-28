@@ -1,7 +1,7 @@
 package com.qwertyfox.TheFox.controller;
 
-import com.research.researchvulnerability.dao.AppUserDetailsDao;
-import com.research.researchvulnerability.model.FoxUser;
+import com.qwertyfox.TheFox.dao.AppUserDetailsDao;
+import com.qwertyfox.TheFox.model.FoxUser;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.security.crypto.password.PasswordEncoder;

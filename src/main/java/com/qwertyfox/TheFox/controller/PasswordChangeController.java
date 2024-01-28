@@ -1,7 +1,7 @@
 package com.qwertyfox.TheFox.controller;
 
-import com.research.researchvulnerability.dao.AppUserVerificationDao;
-import com.research.researchvulnerability.model.AppUsernamePassword;
+import com.qwertyfox.TheFox.dao.AppUserVerificationDao;
+import com.qwertyfox.TheFox.model.AppUsernamePassword;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.security.crypto.password.PasswordEncoder;
